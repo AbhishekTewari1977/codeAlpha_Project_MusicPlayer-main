@@ -1,1 +1,1 @@
-# codeAlpha_Project_MusicPlayer-main
+# codeAlpha_Project_MusicPlayer
